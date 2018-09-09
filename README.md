@@ -1,2 +1,2 @@
 # kaggle
-Challenge to kaggle on [my account](https://www.kaggle.com/dsonoda).
+Challenging [Kaggle](https://www.kaggle.com/dsonoda).
