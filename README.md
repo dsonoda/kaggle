@@ -1,2 +1,2 @@
 # kaggle
-Challenging [Kaggle](https://www.kaggle.com/dsonoda).
+Challenging to [Kaggle](https://www.kaggle.com/dsonoda).
